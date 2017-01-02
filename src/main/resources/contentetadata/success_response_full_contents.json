@@ -1,0 +1,84 @@
+[
+  {
+  "isCollapsed": false,
+  "productionLocation": "GBR",
+  "audioType": "DolbyProLogic",
+  "directors": [
+    "Raghav"
+  ],
+  "productionYear": "2001",
+  "assetType": "vod",
+  "duration": 42567,
+  "actors": [
+    "James"
+  ],
+  "assetId": "TitleSampleTest1",
+  "subtitleLanguages": [
+    "eng",
+    "ita"
+  ],
+  "startTime": 1008581447000,
+  "endTime": 1608197447000,
+  "thumbnails": [
+    {
+      "width": 200,
+      "mimeType": "JPEG",
+      "classification": "urn:nnds:Metro:metadata:MediaTypeCS:2007:2.1.1",
+      "adult": false,
+      "uri": "http://movies/image1",
+      "height": 100
+    }
+  ],
+  "genres": [
+    "10"
+  ],
+  "rating": "0",
+  "erotic": true,
+  "adult": true,
+  "shortSynopsis": "Casino Royale modified james bond movie short",
+  "synopsis": "Casino Royale modified james bond movie med",
+  "title": "Casino Royale modified",
+  "longSynopsis": "Casino Royale modified james bond movie long"
+},
+{
+  "isCollapsed": false,
+  "productionLocation": "GBR",
+  "audioType": "DolbyProLogic",
+  "directors": [
+    "Raghav"
+  ],
+  "productionYear": "2001",
+  "assetType": "vod",
+  "duration": 42567,
+  "actors": [
+    "James"
+  ],
+  "assetId": "TitleSampleTest2",
+  "subtitleLanguages": [
+    "eng",
+    "ita"
+  ],
+  "startTime": 1008581447000,
+  "endTime": 1608197447000,
+  "thumbnails": [
+    {
+      "width": 200,
+      "mimeType": "JPEG",
+      "classification": "urn:nnds:Metro:metadata:MediaTypeCS:2007:2.1.1",
+      "adult": false,
+      "uri": "http://movies/image1",
+      "height": 100
+    }
+  ],
+  "genres": [
+    "10"
+  ],
+  "rating": "0",
+  "erotic": true,
+  "adult": true,
+  "shortSynopsis": "Casino Royale modified james bond movie short",
+  "synopsis": "Casino Royale modified james bond movie med",
+  "title": "Casino Royale modified",
+  "longSynopsis": "Casino Royale modified james bond movie long"
+}
+]
